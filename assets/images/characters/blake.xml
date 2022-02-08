@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfblake.png"><SubTexture name="bfblake idle0000" x="0" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0001" x="94" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0002" x="188" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0003" x="282" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0004" x="376" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0005" x="0" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0006" x="94" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake idle0007" x="188" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singRIGHT0000" x="282" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singRIGHT0001" x="376" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singRIGHT0002" x="0" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singRIGHTmiss0000" x="94" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singRIGHTmiss0001" x="188" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singRIGHTmiss0002" x="282" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singUP0000" x="376" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singUP0001" x="0" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singUP0002" x="94" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singUPmiss0000" x="188" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singUPmiss0001" x="282" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singUPmiss0002" x="376" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singDOWN0000" x="0" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singDOWN0001" x="94" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singDOWN0002" x="188" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singDOWNmiss0000" x="282" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singDOWNmiss0001" x="376" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singDOWNmiss0002" x="0" y="395" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singLEFT0000" x="94" y="395" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singLEFT0001" x="188" y="395" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singLEFT0002" x="282" y="395" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singLEFTmiss0000" x="376" y="395" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singLEFTmiss0001" x="0" y="474" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="bfblake singLEFTmiss0002" x="94" y="474" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+</TextureAtlas>

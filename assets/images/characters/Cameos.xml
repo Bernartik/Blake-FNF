@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cameos Stage3.png"><SubTexture name="Cameos Stage3 Cameos0000" x="0" y="0" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0001" x="315" y="0" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0002" x="630" y="0" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0003" x="0" y="169" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0004" x="315" y="169" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0005" x="630" y="169" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0006" x="0" y="338" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0007" x="315" y="338" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+<SubTexture name="Cameos Stage3 Cameos0008" x="630" y="338" width="315" height="169" frameX="0" frameY="0" frameWidth="315" frameHeight="169" />
+</TextureAtlas>

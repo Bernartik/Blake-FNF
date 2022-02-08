@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ztatic.png"><SubTexture name="Ztatic idle0000" x="0" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0001" x="94" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0002" x="188" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0003" x="282" y="0" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0004" x="0" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0005" x="94" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0006" x="188" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0007" x="282" y="79" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic idle0008" x="0" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic right0000" x="94" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic right0001" x="188" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic right0002" x="282" y="158" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic down0000" x="0" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic down0001" x="94" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic down0002" x="188" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic up0000" x="282" y="237" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic up0001" x="0" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic up0002" x="94" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic left0000" x="188" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic left0001" x="282" y="316" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+<SubTexture name="Ztatic left0002" x="0" y="395" width="94" height="79" frameX="0" frameY="0" frameWidth="94" frameHeight="79" />
+</TextureAtlas>

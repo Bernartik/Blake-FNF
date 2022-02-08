@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FC.png"><SubTexture name="FC FullCombo0000" x="0" y="0" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0001" x="134" y="0" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0002" x="268" y="0" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0003" x="0" y="134" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0004" x="134" y="134" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0005" x="268" y="134" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0006" x="0" y="268" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0007" x="134" y="268" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+<SubTexture name="FC FullCombo0008" x="268" y="268" width="134" height="134" frameX="0" frameY="0" frameWidth="134" frameHeight="134" />
+</TextureAtlas>

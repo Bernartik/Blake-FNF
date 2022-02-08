@@ -1,0 +1,50 @@
+{
+    "box": "speech_bubble_talking",
+    "boxState": "normal",
+    "dialogue": [
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "hey"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "if you see this, thanks for playing the mod"
+        },
+        {
+            "portrait": "bf",
+            "expression": "normal",
+            "text": "this mod has been a passion project for a while and I'm so happy to finally get it out."
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "big thanks to Bernardo and Nimbus for being the main people to carry the team."
+        },
+        {
+            "portrait": "bf",
+            "expression": "smug",
+            "text": "I really appricate you guys."
+        },
+        {
+            "portrait": "bf",
+            "expression": "mad",
+            "text": "I'd also like to thank you, for playing."
+        },
+        {
+            "portrait": "bf-pixel",
+            "expression": "normal",
+            "text": "Weither you came from the funny site, or just because you were curious.",
+            "boxState": "yell",
+            "scale": 1.4
+        },
+        {
+            "portrait": "bf",
+            "expression": "mad",
+            "text": "thank you.",
+            "boxState": "normal",
+            "scale": 0.8
+        }
+    ]
+}
